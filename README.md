@@ -1,15 +1,11 @@
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Satish
-<a href="https://discord.gg/NB117#3632">
-  <img align="left" alt="NB117's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Satish Rajnale | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="linkedin.com/in/satish-rajnale-676a201b1">
-  <img align="left" alt="Satish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+ <a href="mailto:NB117#3632"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="linkedin.com/in/satish-rajnale-676a201b1"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
