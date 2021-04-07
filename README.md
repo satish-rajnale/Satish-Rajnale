@@ -10,6 +10,10 @@
 <a href="linkedin.com/in/satish-rajnale-676a201b1">
   <img align="left" alt="Satish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+ <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+ <a href=""><img width="46px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+ <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
 
@@ -31,10 +35,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript"width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
- <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
- <a href=""><img width="46px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
- <a href=""><img width="46px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
