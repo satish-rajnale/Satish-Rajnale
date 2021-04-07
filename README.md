@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
- <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
- <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
- <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+ <a href="https://www.facebook.com/matyo91"><img width="36px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+ <a href="mailto:Matyo#2285"><img width="36px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+ <a href="https://steamcommunity.com/id/matyo91"><img width="36px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+ <a href="https://www.twitch.tv/matyo91"><img width="36px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 
