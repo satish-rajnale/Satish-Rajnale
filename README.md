@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" class="bg-white" color="white" width="36px" src="![19-198466_github-logo-png-clipart](https://user-images.githubusercontent.com/76589507/113863969-f33bca00-97c7-11eb-9b9a-f994b6357530.png)" />
+![19-198466_github-logo-png-clipart](https://user-images.githubusercontent.com/76589507/113863969-f33bca00-97c7-11eb-9b9a-f994b6357530.png)
 
 
