@@ -10,10 +10,10 @@
 <a href="linkedin.com/in/satish-rajnale-676a201b1">
   <img align="left" alt="Satish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
- <a href=""><img width="22px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
- <a href=""><img width="22px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
- <a href=""><img width="22px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
- <a href=""><img width="22px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+ <a href=""><img width="28px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+ <a href=""><img width="28px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
+ <a href=""><img width="28px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+ <a href=""><img width="28px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
 
