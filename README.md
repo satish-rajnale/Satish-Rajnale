@@ -1,4 +1,5 @@
 
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Satish
 <a href="https://discord.gg/NB117#3632">
   <img align="left" alt="NB117's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -36,6 +37,6 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" class="bg-white" color="white" width="36px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiTTimo_github-logo-png-clipart%2F&psig=AOvVaw0lCVZBQGz0W3hEg6YoOOgW&ust=1617883591855000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOioo5qM7O8CFQAAAAAdAAAAABAD" />
+<img align="left" alt="GitHub" class="bg-white" color="white" width="36px" src="![19-198466_github-logo-png-clipart](https://user-images.githubusercontent.com/76589507/113863969-f33bca00-97c7-11eb-9b9a-f994b6357530.png)" />
 
 
