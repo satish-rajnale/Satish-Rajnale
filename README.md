@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" src="https://user-images.githubusercontent.com/76589507/114040623-6c5b2000-98a1-11eb-9b8e-b8874129d297.png" width="40px" alt="firebase"/>
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Nextjs" width="40px" src="https://user-images.githubusercontent.com/76589507/114042761-55b5c880-98a3-11eb-9c3a-3e5224de61c2.jpeg" />
+
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/76589507/114041992-a7118800-98a2-11eb-9730-5536c7b42db6.png" />
