@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/76589507/114041992-a7118800-98a2-11eb-9730-5536c7b42db6.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/satish-rajnale/Passport-authentication/blob/master/views/mongo.png" />
+
 
 
 
