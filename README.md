@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <img align="left" src="https://user-images.githubusercontent.com/76589507/114040623-6c5b2000-98a1-11eb-9b8e-b8874129d297.png" width="40px" alt="firebase"/>
 <img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/76589507/114043203-b2b17e80-98a3-11eb-9261-277cae5a5cc3.png" />
 <img align="left" alt="Nextjs" width="45px" height="40px" src="https://user-images.githubusercontent.com/76589507/114042761-55b5c880-98a3-11eb-9c3a-3e5224de61c2.jpeg" />
-<img align="left" alt="Node.js" width="40px" src="https://user-images.githubusercontent.com/76589507/114043481-f310fc80-98a3-11eb-8be8-92c7c9530ec6.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Node.js" width="37px" src="https://user-images.githubusercontent.com/76589507/114043481-f310fc80-98a3-11eb-8be8-92c7c9530ec6.png" />
+<img align="left" alt="restapi" width="40px" src="https://user-images.githubusercontent.com/76589507/114044377-d1644500-98a4-11eb-965c-f9fc35b73ca9.png" />
 <img align="left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/76589507/114041992-a7118800-98a2-11eb-9730-5536c7b42db6.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://github.com/satish-rajnale/Passport-authentication/blob/master/views/mongo.png" />
 
