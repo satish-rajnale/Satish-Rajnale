@@ -1,3 +1,4 @@
+![netflix2](https://user-images.githubusercontent.com/76589507/114227153-38abf300-9992-11eb-8c22-9ac3d857fc45.gif)
 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Satish
@@ -40,7 +41,8 @@ Here are some ideas to get you started:
 
 
 ### Portfolio:
-<img src="https://user-images.githubusercontent.com/76589507/114226422-2c736600-9991-11eb-807c-fb91ae96f1be.gif" />
+<img src="https://user-images.githubusercontent.com/76589507/114227230-54af9480-9992-11eb-971e-7679e1a73229.gif" />
+
 
 
 
