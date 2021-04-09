@@ -4,13 +4,13 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Satish
 
  <a href="mailto:NB117#3632"><img width="32px" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href=""><img  width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://twitter.com/matyo91"><img width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="satishrajnale98@gmail.com"><img  width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://twitter.com/"><img width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="linkedin.com/in/satish-rajnale-676a201b1"><img width="32px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
- <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
+ <a href="https://www.twitch.tv/nbyte117"><img width="32px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
 
