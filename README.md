@@ -4,7 +4,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Satish
 
  <a href="mailto:NB117#3632"><img width="32px" src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="gmail.com"><img  width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://satishrajnale98@gmail.com"><img  width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/"><img width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://linkedin.com/in/satish-rajnale-676a201b1"><img width="32px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href=""><img width="32px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
