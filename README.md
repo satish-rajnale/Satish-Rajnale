@@ -14,7 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
 
-I'm a Full Stack Developer, coding has became an unending part of my life and I love it !
+I'm a Front End Developer, coding has became an unending part of my life and I love it !
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 Here are some ideas to get you started:
