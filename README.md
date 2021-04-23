@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ### ✔😎Portfolio:
-<a href="https://nbapp-a1c76.web.app" alt="Satish-Rajnale's website"><img src="https://user-images.githubusercontent.com/76589507/114227230-54af9480-9992-11eb-971e-7679e1a73229.gif" /></a>
+<a href="" alt="Satish-Rajnale's website"><img src="https://user-images.githubusercontent.com/76589507/114227230-54af9480-9992-11eb-971e-7679e1a73229.gif" /></a>
 
 
 
