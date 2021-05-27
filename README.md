@@ -8,7 +8,6 @@
   <a href="https://twitter.com/"><img width="32px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://linkedin.com/in/satish-rajnale-676a201b1"><img width="32px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
  <a href="https://www.facebook.com/satish.rajnale.5/"><img width="32px" src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
- <a href=""><img width="32px" src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
  <a href="https://www.twitch.tv/nbyte117"><img width="32px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
