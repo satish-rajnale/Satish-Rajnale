@@ -1,7 +1,7 @@
 
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px" height="2px"> I'm Satish
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> I'm Satish
 
 
   <a href="https://satishrajnale98@gmail.com"><img  width="32px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
