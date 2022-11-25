@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React, learn best way around different algorithms & data structures. Contribute to Open Source projects.
+- 🥅 2021 Goals: Master React, learn something new. Contribute to Open Source projects.
 - ⚡ Pass time: Love manga, anime & action/adventure/multiplayer games.
 
 ### Languages and Tools:
