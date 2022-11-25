@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### ✔😎Portfolio:
-<a href="https://satish-dev.netlify.app/" target="_blank" alt="Satish-Rajnale's website"><img src="https://user-images.githubusercontent.com/76589507/114227230-54af9480-9992-11eb-971e-7679e1a73229.gif" /></a>
+<a href="https://satishrajnale.vercel.app/" target="_blank" alt="Satish-Rajnale's website"><img src="https://user-images.githubusercontent.com/76589507/114227230-54af9480-9992-11eb-971e-7679e1a73229.gif" /></a>
 
 
 
