@@ -4,9 +4,6 @@
 <a href="https://linkedin.com/in/satish-rajnale-676a201b1"><img width="28px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/"><img width="28px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 <a href="https://www.twitch.tv/nbyte117"><img width="28px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=satish.rajnale)
-
 ---
 
 I'm a **Full Stack Developer** with 5+ years of experience building scalable web applications, backend services, and mobile solutions. I specialize in:
