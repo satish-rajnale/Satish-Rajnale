@@ -6,7 +6,7 @@
 <a href="https://www.twitch.tv/nbyte117"><img width="28px" src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
 ---
 
-I'm a **Full Stack Developer** with 5+ years of experience building scalable web applications, backend services, and mobile solutions. I specialize in:
+I'm a **Full Stack Developer** building scalable web applications, backend services, and mobile solutions. I specialize in:
 
 - **Frontend**: React, TypeScript, Next.js, React Native  
 - **Backend**: FastAPI, Node.js, Python  
